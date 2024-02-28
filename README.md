@@ -10,4 +10,8 @@ Another area where the copper industry faces challenges is in capturing the lead
 # SINGAPORE FLAT RESALE PRICE PREDICTION:
     PROBLEM STATEMENT:
       To develop a machine learning model and deploy it as a user-friendly web application that predicts the resale prices of flats in Singapore. This predictive model will be based on historical data of resale flat transactions, and it aims to assist both potential buyers and sellers in estimating the resale value of a flat.
+# PLAYLIST RECOMMENDATION SYSTEM FOR SPOTIFY USERS:
+    PROBLEM STATEMENT:
+        To identify the most accurate machine learning model that recommends personalized playlists for Spotify users based on their music preferences and listening history.
+    
   
